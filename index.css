@@ -1,0 +1,51 @@
+
+.navbar{
+    padding: 0.75rem 0;
+    background-color: transparent;
+    background-image: linear-gradient(to bottom, rgba(112.520718,44.062154,249.437846, 1), rgba(112.520718,44.062154,249.437846, 0.95));
+    box-shadow: 0 0.5rem 1rem rgb(0 0 0 / 15%), inset 0 -1px 0 rgb(0 0 0 / 15%);
+}
+a{
+    color: #ffffffd9 !important;
+}
+.nav-brand{
+    color: #fff !important;
+}
+.container{
+    height: 42px;
+}
+.navbar{
+    padding: 12px 0 !important;
+}
+.search{
+    width: 280px;
+    height: 38px;
+}
+.search .btn{
+    color: #fff !important;
+    border: 1px solid #fff !important;
+}
+.nav-link{
+    color: #ffffffd9 !important;
+}
+.nav-link :active{
+    color: #fff;
+}
+.nav-link:hover{
+    color: #fff !important;
+}
+.my-1{
+    color: #fff !important;
+}
+.btn-outline-success:hover {
+    color: rgba(112.520718,44.062154,249.437846, 1) !important;
+    background-color: #fff !important; 
+}
+.dropdown-item {
+    color: #212529 !important;
+}
+.vr.d-none{
+    width: 1px;
+    background-color: #ffffffd9;
+    opacity: 0.25;
+}
